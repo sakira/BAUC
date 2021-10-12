@@ -20,6 +20,7 @@ function CBAUC = getBinaryBeeClosedFormAUC (X, y, a, varargin)
 % January 2011.
 %
 % (c) 4.6.2012 Heikki.Huttunen@tut.fi
+% (c) 2.2.2016 sakira.hassan@tut.fi (modified the main BEE.m)
 %
 
 if (any(~isfinite(a)))
